@@ -1,0 +1,10 @@
+.env
+.DS_Store
+.vscode
+logs/
+dryrun/
+metadata/
+venv/
+__pycache__/
+src.zip
+confluence_export/
